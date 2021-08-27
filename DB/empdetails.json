@@ -17,12 +17,6 @@
       "first_name": "Pooja",
       "last_name": "Susmitha",
       "salary": 12000
-    },
-    {
-      "first_name": "Lionel",
-      "last_name": "Messi",
-      "salary": 50000,
-      "id": 4
     }
   ]
 }
